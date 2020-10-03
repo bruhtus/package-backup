@@ -2,17 +2,26 @@
 
 This repo is for my package list backup so that i can re-install all my package without remembering all of them.
 
-#### To backup all of your currently installed package
+### To backup all of your currently installed package
+#### Backup package in repository
 ```bash
-sudo pacman -Qeq > pkglist.txt
+pacman -Qqen > pkglist-repo.txt
 ```
 
-#### To restore / re-install all 0f your package
+#### Backup package in arch user repository (AUR)
 ```bash
-sudo pacman -S --needed $(< pkglist.txt)
+pacman -Qqem > pkglist-aur.txt
 ```
-or
 
+### To restore / re-install all 0f your package
+#### For repository package
 ```bash
-yourt -S --needed $(< pkglist.txt) #which would install all package including those from the AUR
+sudo pacman -S --needed - < pkglist-repo.txt
 ```
+
+#### For AUR package
+```bash
+for x in $(cat pkglist-aur.txt); do pamac build $x; done
+```
+
+The information was gathered from [here](https://classicforum.manjaro.org/index.php?topic=16484.0)
