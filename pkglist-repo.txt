@@ -110,6 +110,7 @@ linux58
 logrotate
 lvm2
 lxappearance
+lxinput-gtk3
 m4
 maia-console
 make
