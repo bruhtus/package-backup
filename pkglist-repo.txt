@@ -40,6 +40,7 @@ dnsmasq
 dosfstools
 downgrade
 e2fsprogs
+ebtables
 ecryptfs-utils
 efibootmgr
 epdfview
@@ -111,6 +112,7 @@ logrotate
 lvm2
 lxappearance
 lxinput-gtk3
+lxsession
 m4
 maia-console
 make
@@ -182,6 +184,7 @@ psmisc
 pulseaudio
 py3status
 python-pywal
+qemu
 qt5-styleplugins
 qt5ct
 ranger
@@ -223,7 +226,7 @@ vi
 vibrancy-icons-teal
 viewnior
 vim
-virtualbox
+virt-manager
 vlc
 volumeicon
 vulkan-intel
