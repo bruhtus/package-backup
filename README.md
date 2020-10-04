@@ -13,7 +13,7 @@ pacman -Qqen > pkglist-repo.txt
 pacman -Qqem > pkglist-aur.txt
 ```
 
-### To restore / re-install all 0f your package
+### To restore / re-install all of your package
 #### For repository package
 ```bash
 sudo pacman -S --needed - < pkglist-repo.txt
