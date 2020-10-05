@@ -25,3 +25,5 @@ for x in $(cat pkglist-aur.txt); do pamac build $x; done
 ```
 
 The information was gathered from [here](https://classicforum.manjaro.org/index.php?topic=16484.0)
+
+For how to install virt-manager, you can check the [wiki](https://github.com/bruhtus/manjaro_backup/wiki)
