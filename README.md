@@ -1,6 +1,6 @@
 # Manjaro Package List Backup and Restore
 
-This repo is for my package list backup so that i can re-install all my package without remembering all of them.
+This repo is for my package list backup so that i can re-install all my package without remembering all of them. You can also use the command below to backup your package list.
 
 ### To backup all of your currently installed package
 #### Backup package in repository
