@@ -28,4 +28,6 @@ The information was gathered from [here](https://classicforum.manjaro.org/index.
 
 Another useful information to restore system, [here you go](https://forum.manjaro.org/t/how-to-save-your-manjaro-installation-when-it-breaks/3902).
 
+Also, try `Ctrl+Alt+F2`. A lot of people said it did something, i've never tried that so good luck.
+
 For how to install virt-manager, you can check the [wiki](https://github.com/bruhtus/manjaro_backup/wiki).
