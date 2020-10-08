@@ -1,4 +1,4 @@
-# Arch Linux Package List Backup and Restore
+# Arch-based Linux Package List Backup and Restore
 
 This repo is for my package list backup so that i can re-install all my package without remembering all of them. You can also use the command below to backup and re-install your package on new installation.
 
