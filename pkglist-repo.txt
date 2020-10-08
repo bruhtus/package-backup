@@ -22,6 +22,7 @@ bmenu
 btrfs-progs
 bzip2
 cantarell-fonts
+cawbird
 clipit
 coreutils
 cpupower
@@ -97,6 +98,7 @@ lib32-flex
 lib32-libva-vdpau-driver
 lib32-mesa-demos
 lib32-mesa-vdpau
+lib32-nvidia-450xx-utils
 lib32-vulkan-intel
 lib32-vulkan-radeon
 libdvdcss
@@ -108,6 +110,7 @@ licenses
 lightdm-settings
 lightdm-slick-greeter
 linux58
+linux58-nvidia-450xx
 logrotate
 lvm2
 lxappearance
@@ -162,6 +165,8 @@ noto-fonts-emoji
 nss-mdns
 ntfs-3g
 ntp
+nvidia-450xx-utils
+nvidia-prime
 openresolv
 openssh
 os-prober
@@ -197,6 +202,7 @@ screenfetch
 sed
 shadow
 snapd
+softmaker-office-2021
 spectre-meltdown-checker
 speedtest-cli
 subversion
