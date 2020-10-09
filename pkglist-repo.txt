@@ -44,10 +44,12 @@ e2fsprogs
 ebtables
 ecryptfs-utils
 efibootmgr
+emacs
 epdfview
 exfat-utils
 f2fs-tools
 fakeroot
+fd
 ffmpeg
 ffmpegthumbnailer
 file
@@ -194,6 +196,7 @@ qt5-styleplugins
 qt5ct
 ranger
 reiserfsprogs
+ripgrep
 rofi
 rsync
 s-nail
