@@ -234,6 +234,7 @@ vertex-maia-themes
 vi
 vibrancy-icons-teal
 viewnior
+vifm
 vim
 virt-manager
 vlc
