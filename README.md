@@ -31,3 +31,14 @@ Another useful information to restore system, [here you go](https://forum.manjar
 Also, try `Ctrl+Alt+F2`. A lot of people said it did something, i've never tried that so good luck.
 
 For how to install virt-manager, you can check the [wiki](https://github.com/bruhtus/manjaro_backup/wiki).
+
+For setting up the bluetooth devices: <br>
+Install pulseaudio bluetooth using command below:
+```bash
+sudo pacman -S pulseaudio-bluetooth
+```
+and then run the following command:
+```bash
+pactl load-module module-bluetooth-discover
+```
+That's all.

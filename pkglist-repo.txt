@@ -194,6 +194,7 @@ powertop
 procps-ng
 psmisc
 pulseaudio
+pulseaudio-bluetooth
 py3status
 python-pywal
 qemu
