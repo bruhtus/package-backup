@@ -1,3 +1,4 @@
 flat-remix-gtk
 google-chrome
 notion-app
+pfetch-git
