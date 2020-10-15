@@ -21,6 +21,7 @@ bluez-utils
 bmenu
 btrfs-progs
 bzip2
+calibre
 cantarell-fonts
 cawbird
 clipit
@@ -29,12 +30,14 @@ cpupower
 crda
 cronie
 cryptsetup
+darktable
 deluge
 device-mapper
 dfc
 dhclient
 dhcpcd
 diffutils
+discord
 dmidecode
 dmraid
 dnsmasq
@@ -46,6 +49,7 @@ ecryptfs-utils
 efibootmgr
 emacs
 epdfview
+evince
 exfat-utils
 f2fs-tools
 fakeroot
@@ -58,6 +62,7 @@ findutils
 flac
 flameshot
 flex
+freeoffice
 gawk
 gcc
 gcc-libs
@@ -205,7 +210,6 @@ screenfetch
 sed
 shadow
 snapd
-softmaker-office-2021
 spectre-meltdown-checker
 speedtest-cli
 subversion
