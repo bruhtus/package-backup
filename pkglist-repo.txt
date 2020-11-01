@@ -92,6 +92,7 @@ gvfs-smb
 gzip
 hexchat
 htop
+hugo
 i3blocks
 inetutils
 intel-ucode
@@ -167,8 +168,10 @@ networkmanager-openvpn
 networkmanager-pptp
 networkmanager-vpnc
 nfs-utils
+nodejs
 noto-fonts-cjk
 noto-fonts-emoji
+npm
 nss-mdns
 ntfs-3g
 ntp
@@ -205,6 +208,7 @@ reiserfsprogs
 ripgrep
 rofi
 rsync
+ruby
 s-nail
 sbxkb
 screenfetch
