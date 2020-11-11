@@ -30,6 +30,8 @@ cpupower
 crda
 cronie
 cryptsetup
+cuda
+cudnn
 darktable
 deluge
 device-mapper
@@ -201,6 +203,7 @@ pulseaudio
 pulseaudio-bluetooth
 py3status
 python-pywal
+python-tensorflow-opt-cuda
 qemu
 qt5-styleplugins
 qt5ct
