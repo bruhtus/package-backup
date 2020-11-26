@@ -23,7 +23,6 @@ btrfs-progs
 bzip2
 calibre
 cantarell-fonts
-cawbird
 clipit
 coreutils
 cpupower
@@ -39,7 +38,6 @@ dfc
 dhclient
 dhcpcd
 diffutils
-discord
 dmidecode
 dmraid
 dnsmasq
@@ -247,7 +245,6 @@ vertex-maia-themes
 vi
 vibrancy-icons-teal
 viewnior
-vifm
 vim
 virt-manager
 vlc
