@@ -96,6 +96,7 @@ htop
 hugo
 i3blocks
 inetutils
+intel-gpu-tools
 intel-ucode
 inxi
 iproute2
@@ -178,6 +179,7 @@ ntfs-3g
 ntp
 nvidia-450xx-utils
 nvidia-prime
+nvtop
 openresolv
 openssh
 os-prober
