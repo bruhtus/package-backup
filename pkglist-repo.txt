@@ -61,7 +61,9 @@ filesystem
 findutils
 flac
 flameshot
+flatpak
 flex
+foliate
 freeoffice
 gawk
 gcc
