@@ -287,4 +287,5 @@ xorg-xprop
 xterm
 xz
 yay
+youtube-dl
 zensu
