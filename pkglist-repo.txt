@@ -104,6 +104,7 @@ inxi
 iproute2
 iputils
 jfsutils
+jupyterlab
 kvantum-manjaro
 less
 lib32-flex
