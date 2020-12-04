@@ -23,6 +23,7 @@ btrfs-progs
 bzip2
 calibre
 cantarell-fonts
+celluloid
 clipit
 coreutils
 cpupower
@@ -129,6 +130,7 @@ lvm2
 lxappearance
 lxinput-gtk3
 lxsession
+lynx
 m4
 maia-console
 make
@@ -252,7 +254,6 @@ vibrancy-icons-teal
 viewnior
 vim
 virt-manager
-vlc
 volumeicon
 vulkan-intel
 vulkan-radeon
@@ -291,4 +292,5 @@ xterm
 xz
 yay
 youtube-dl
+youtube-viewer
 zensu
