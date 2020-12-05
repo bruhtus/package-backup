@@ -1,4 +1,5 @@
 epy-git
 flat-remix-gtk
 google-chrome
+googler
 pfetch-git
