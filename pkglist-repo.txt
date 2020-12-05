@@ -87,6 +87,7 @@ gst-plugins-good
 gst-plugins-ugly
 gstreamer
 gtksourceview-pkgbuild
+gtop
 gufw
 gvfs
 gvfs-afc
@@ -130,7 +131,6 @@ lvm2
 lxappearance
 lxinput-gtk3
 lxsession
-lynx
 m4
 maia-console
 make
@@ -217,6 +217,7 @@ reiserfsprogs
 ripgrep
 rofi
 rsync
+rtorrent
 ruby
 s-nail
 sbxkb
