@@ -51,6 +51,7 @@ efibootmgr
 emacs
 epdfview
 evince
+exa
 exfat-utils
 f2fs-tools
 fakeroot
@@ -62,7 +63,6 @@ filesystem
 findutils
 flac
 flameshot
-flatpak
 flex
 foliate
 freeoffice
@@ -197,6 +197,7 @@ pciutils
 pcmanfm
 perl
 perl-file-mimeinfo
+perl-text-charwidth
 pkgconf
 polkit-gnome
 polybar
