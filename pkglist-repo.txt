@@ -22,7 +22,6 @@ btrfs-progs
 bzip2
 calibre
 cantarell-fonts
-celluloid
 clipit
 coreutils
 cpupower
@@ -49,7 +48,6 @@ ecryptfs-utils
 efibootmgr
 emacs
 epdfview
-evince
 exa
 exfat-utils
 f2fs-tools
@@ -162,6 +160,7 @@ moc
 modemmanager
 morc_menu
 mousepad
+mpv
 nano
 ncdu
 neofetch
@@ -293,4 +292,5 @@ xz
 yay
 youtube-dl
 youtube-viewer
+zathura-pdf-poppler
 zensu
