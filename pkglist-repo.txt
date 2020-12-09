@@ -13,7 +13,6 @@ automake
 avahi
 b43-fwcutter
 bash
-bauh
 binutils
 bison
 blueman
@@ -106,7 +105,6 @@ inxi
 iproute2
 iputils
 jfsutils
-jupyterlab
 kvantum-manjaro
 less
 lib32-flex
