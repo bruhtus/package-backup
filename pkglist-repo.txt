@@ -91,6 +91,7 @@ gvfs-afc
 gvfs-gphoto2
 gvfs-mtp
 gvfs-smb
+gvim
 gzip
 hexchat
 htop
@@ -251,7 +252,6 @@ vertex-maia-themes
 vi
 vibrancy-icons-teal
 viewnior
-vim
 virt-manager
 volumeicon
 vulkan-intel
