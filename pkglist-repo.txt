@@ -7,7 +7,6 @@ alsa-plugins
 alsa-utils
 apparmor
 arandr
-artwork-i3
 autoconf
 automake
 avahi
@@ -136,7 +135,6 @@ manjaro-alsa
 manjaro-application-utility
 manjaro-browser-settings
 manjaro-firmware
-manjaro-hello
 manjaro-hotfixes
 manjaro-i3-settings
 manjaro-printer
@@ -144,7 +142,6 @@ manjaro-ranger-settings
 manjaro-release
 manjaro-settings-manager-notifier
 manjaro-system
-manjaro-zsh-config
 markdown_previewer
 matcha-gtk-theme
 mdadm
