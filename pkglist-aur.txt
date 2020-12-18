@@ -1,3 +1,4 @@
+ddgr
 flat-remix-gtk
 google-chrome
 googler
