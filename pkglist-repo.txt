@@ -198,7 +198,6 @@ reiserfsprogs
 ripgrep
 rofi
 rsync
-rtorrent
 ruby
 s-nail
 sbxkb
