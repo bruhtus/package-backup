@@ -224,6 +224,7 @@ tlp
 tree
 ttf-dejavu
 ttf-droid
+ttf-font-awesome
 ttf-inconsolata
 ttf-indic-otf
 ttf-liberation
