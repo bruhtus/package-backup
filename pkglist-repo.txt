@@ -69,6 +69,7 @@ git
 git-lfs
 glibc
 gnome-keyring
+gnu-netcat
 gparted
 grep
 grub
@@ -91,7 +92,6 @@ gvim
 gzip
 htop
 hugo
-i3blocks
 inetutils
 intel-gpu-tools
 intel-ucode
@@ -225,6 +225,7 @@ tree
 ttf-dejavu
 ttf-droid
 ttf-font-awesome
+ttf-font-icons
 ttf-inconsolata
 ttf-indic-otf
 ttf-liberation
@@ -266,6 +267,7 @@ xorg-xhost
 xorg-xinit
 xorg-xkill
 xorg-xprop
+xsel
 xterm
 xz
 yay
