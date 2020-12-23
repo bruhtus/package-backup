@@ -177,6 +177,7 @@ patch
 patchutils
 pciutils
 pcmanfm
+peek
 perl
 perl-file-mimeinfo
 perl-text-charwidth
@@ -266,6 +267,7 @@ xfce4-power-manager
 xfsprogs
 xorg-server
 xorg-twm
+xorg-xev
 xorg-xhost
 xorg-xinit
 xorg-xkill
