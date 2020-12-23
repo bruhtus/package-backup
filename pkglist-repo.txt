@@ -172,6 +172,7 @@ os-prober
 p7zip
 pacman
 pamac-gtk
+pandoc
 patch
 patchutils
 pciutils
@@ -219,6 +220,8 @@ tar
 telegram-desktop
 terminus-font
 texinfo
+texlive-core
+texlive-latexextra
 timeshift
 tlp
 tree
