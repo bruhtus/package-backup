@@ -17,6 +17,7 @@ bison
 blueman
 bluez-utils
 bmenu
+bpytop
 btrfs-progs
 bzip2
 calibre
@@ -81,7 +82,6 @@ gst-plugins-good
 gst-plugins-ugly
 gstreamer
 gtksourceview-pkgbuild
-gtop
 gufw
 gvfs
 gvfs-afc
