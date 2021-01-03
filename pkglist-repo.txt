@@ -208,6 +208,7 @@ shadow
 snapd
 spectre-meltdown-checker
 speedtest-cli
+sshfs
 subversion
 sudo
 sxiv
