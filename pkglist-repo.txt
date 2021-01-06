@@ -233,6 +233,7 @@ ttf-font-icons
 ttf-inconsolata
 ttf-indic-otf
 ttf-liberation
+unzip
 upower
 usbutils
 util-linux
