@@ -90,6 +90,7 @@ gvim
 gzip
 htop
 hugo
+imv
 inetutils
 intel-gpu-tools
 intel-ucode
@@ -211,7 +212,6 @@ speedtest-cli
 sshfs
 subversion
 sudo
-sxiv
 sysfsutils
 syslog-ng
 systemd
