@@ -279,5 +279,5 @@ xz
 yay
 youtube-dl
 youtube-viewer
-zathura-pdf-poppler
+zathura-pdf-mupdf
 zensu
