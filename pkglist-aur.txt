@@ -4,5 +4,4 @@ google-chrome
 googler
 pfetch-git
 rofi-emoji
-sc-im
 visidata
