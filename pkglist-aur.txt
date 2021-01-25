@@ -2,6 +2,7 @@ ddgr
 flat-remix-gtk
 google-chrome
 googler
+paru
 pfetch-git
 rofi-emoji
 visidata
