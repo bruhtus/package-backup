@@ -16,7 +16,6 @@ binutils
 bison
 blueman
 bluez-utils
-bmenu
 bpytop
 btrfs-progs
 bzip2
@@ -58,6 +57,7 @@ flameshot
 flex
 foliate
 freeoffice
+fzf
 gawk
 gcc
 gcc-libs
