@@ -212,6 +212,7 @@ speedtest-cli
 sshfs
 subversion
 sudo
+syncthing
 sysfsutils
 syslog-ng
 systemd
