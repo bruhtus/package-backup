@@ -1,4 +1,5 @@
 ddgr
+farbfeld
 flat-remix-gtk
 google-chrome
 googler
