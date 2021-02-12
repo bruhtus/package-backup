@@ -219,6 +219,7 @@ systemd
 systemd-fsck-silent
 systemd-sysvcompat
 tar
+task
 telegram-desktop
 terminus-font
 texinfo
