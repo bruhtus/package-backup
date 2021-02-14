@@ -6,7 +6,6 @@ alsa-firmware
 alsa-plugins
 alsa-utils
 apparmor
-arandr
 autoconf
 automake
 avahi
