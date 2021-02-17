@@ -5,5 +5,8 @@ google-chrome
 googler
 patat-bin
 pfetch-git
+polybar
 rofi-emoji
+timeshift
 visidata
+yay
