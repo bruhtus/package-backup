@@ -71,6 +71,7 @@ pacman-contrib
 papirus-icon-theme
 patch
 pcmanfm
+perl-text-charwidth
 picom
 pkgconf
 polkit-gnome
@@ -164,6 +165,7 @@ xorg-xwininfo
 xorg-xwud
 xsel
 xterm
+youtube-dl
 youtube-viewer
 zathura-pdf-mupdf
 zsh
