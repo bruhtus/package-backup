@@ -10,9 +10,11 @@ base
 binutils
 bison
 blueman
+bluez-utils
 bpytop
 cpupower
 dmenu
+dunst
 efibootmgr
 exa
 fakeroot
@@ -24,6 +26,7 @@ fzf
 gawk
 gcc
 gettext
+ghostscript
 git
 grep
 groff
@@ -54,6 +57,7 @@ m4
 make
 mlocate
 mpv
+ncdu
 neofetch
 network-manager-applet
 networkmanager
@@ -72,13 +76,13 @@ pkgconf
 polkit-gnome
 powertop
 pulseaudio
+pulseaudio-alsa
 pulseaudio-bluetooth
 qt5ct
 ranger
 ripgrep
 rofi
 rsync
-sbxkb
 sed
 speedtest-cli
 sshfs
@@ -88,6 +92,7 @@ task
 telegram-desktop
 terminus-font
 texinfo
+transmission-gtk
 ttf-dejavu
 ttf-droid
 ttf-font-awesome
@@ -96,6 +101,7 @@ ttf-indic-otf
 ttf-liberation
 ueberzug
 unzip
+vi
 volumeicon
 vulkan-intel
 w3m
