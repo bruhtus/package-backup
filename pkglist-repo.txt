@@ -101,6 +101,7 @@ ttf-indic-otf
 ttf-liberation
 ueberzug
 unzip
+usbutils
 vi
 volumeicon
 vulkan-intel
@@ -110,6 +111,7 @@ which
 xdotool
 xf86-input-evdev
 xf86-input-void
+xf86-input-wacom
 xf86-video-intel
 xf86-video-nouveau
 xf86-video-vesa
