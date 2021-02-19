@@ -62,7 +62,6 @@ neofetch
 network-manager-applet
 networkmanager
 newsboat
-nitrogen
 noto-fonts-cjk
 noto-fonts-emoji
 ntfs-3g
@@ -166,6 +165,7 @@ xorg-xwininfo
 xorg-xwud
 xsel
 xterm
+xwallpaper
 youtube-dl
 youtube-viewer
 zathura-pdf-mupdf
