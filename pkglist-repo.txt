@@ -100,6 +100,7 @@ ttf-font-awesome
 ttf-inconsolata
 ttf-indic-otf
 ttf-liberation
+ttf-nerd-fonts-symbols
 ueberzug
 unzip
 usbutils
