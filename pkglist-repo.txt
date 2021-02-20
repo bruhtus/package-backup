@@ -79,6 +79,7 @@ pulseaudio
 pulseaudio-alsa
 pulseaudio-bluetooth
 qt5ct
+qutebrowser
 ranger
 ripgrep
 rofi
