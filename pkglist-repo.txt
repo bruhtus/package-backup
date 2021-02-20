@@ -78,6 +78,7 @@ powertop
 pulseaudio
 pulseaudio-alsa
 pulseaudio-bluetooth
+python-pdftotext
 qt5ct
 qutebrowser
 ranger
@@ -101,6 +102,7 @@ ttf-inconsolata
 ttf-indic-otf
 ttf-liberation
 ttf-nerd-fonts-symbols
+udisks2
 ueberzug
 unzip
 usbutils
