@@ -8,5 +8,6 @@ pfetch-git
 polybar
 rofi-emoji
 timeshift
+tuxi-git
 visidata
 yay
