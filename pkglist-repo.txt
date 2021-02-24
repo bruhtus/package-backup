@@ -55,7 +55,6 @@ lightdm-gtk-greeter-settings
 linux
 linux-firmware
 lxappearance-gtk3
-lxsession
 lynx
 m4
 make
