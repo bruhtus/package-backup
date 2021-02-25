@@ -49,9 +49,6 @@ imv
 intel-gpu-tools
 intel-ucode
 libtool
-lightdm
-lightdm-gtk-greeter
-lightdm-gtk-greeter-settings
 linux
 linux-firmware
 lxappearance-gtk3
