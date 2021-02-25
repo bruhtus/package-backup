@@ -3,7 +3,7 @@
 This repo is for my package list backup so that i can re-install all my package without remembering all of them. You can also use the command below to backup and re-install your package on new installation.
 
 ### To backup all of your currently installed package
-#### Backup package in repository
+#### Backup package in official repository
 ```bash
 pacman -Qqen > pkglist-repo.txt
 ```
@@ -28,7 +28,7 @@ The information was gathered from [here](https://classicforum.manjaro.org/index.
 
 Another useful information to restore system, [here you go](https://forum.manjaro.org/t/how-to-save-your-manjaro-installation-when-it-breaks/3902).
 
-Also, try `Ctrl+Alt+F2`. A lot of people said it did something, i've never tried that so good luck.
+To access TTY you can use `Ctrl+Alt+F2` to access TTY2 (or another function key to access another TTY).
 
 For how to install virt-manager, you can check the [wiki](https://github.com/bruhtus/manjaro_backup/wiki).
 
