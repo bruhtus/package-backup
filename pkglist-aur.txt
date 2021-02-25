@@ -1,3 +1,4 @@
+aarchup
 ddgr
 farbfeld
 flat-remix-gtk
