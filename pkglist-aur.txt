@@ -1,11 +1,8 @@
-aarchup
 ddgr
 farbfeld
 flat-remix-gtk
 google-chrome
 googler
-patat-bin
-pfetch-git
 polybar
 rofi-emoji
 timeshift
