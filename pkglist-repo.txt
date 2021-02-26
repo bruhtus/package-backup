@@ -20,6 +20,7 @@ efibootmgr
 exa
 fakeroot
 fd
+ffmpegthumbnailer
 file
 findutils
 flameshot
