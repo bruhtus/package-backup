@@ -21,7 +21,7 @@ sudo pacman -S --needed - < pkglist-repo.txt
 
 #### For AUR package
 ```bash
-for x in $(cat pkglist-aur.txt); do yay -S $x; done
+for x in $(< pkglist-aur.txt); do yay -S $x; done
 ```
 
 The information was gathered from [here](https://classicforum.manjaro.org/index.php?topic=16484.0).
