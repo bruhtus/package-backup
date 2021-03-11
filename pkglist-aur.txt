@@ -1,6 +1,7 @@
 ddgr
 farbfeld
 flat-remix-gtk
+glow
 google-chrome
 googler
 polybar
