@@ -40,7 +40,6 @@ gst-plugins-base
 gst-plugins-good
 gst-plugins-ugly
 gstreamer
-gvim
 gzip
 htop
 hugo
@@ -60,6 +59,7 @@ mlocate
 mpv
 ncdu
 neofetch
+neovim
 network-manager-applet
 networkmanager
 newsboat
