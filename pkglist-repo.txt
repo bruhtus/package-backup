@@ -48,6 +48,7 @@ i3lock
 imv
 intel-gpu-tools
 intel-ucode
+libreoffice-fresh
 libtool
 linux
 linux-firmware
@@ -86,6 +87,7 @@ ranger
 ripgrep
 rofi
 rsync
+ruby
 sed
 speedtest-cli
 sshfs
