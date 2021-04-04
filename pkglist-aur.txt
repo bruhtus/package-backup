@@ -4,6 +4,7 @@ flat-remix-gtk
 glow
 google-chrome
 googler
+neovim-nightly-bin
 polybar
 rofi-emoji
 timeshift

@@ -60,7 +60,6 @@ mlocate
 mpv
 ncdu
 neofetch
-neovim
 network-manager-applet
 networkmanager
 newsboat
