@@ -96,7 +96,6 @@ sudo
 syncthing
 task
 telegram-desktop
-termdown
 terminus-font
 texinfo
 transmission-gtk
