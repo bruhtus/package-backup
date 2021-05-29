@@ -11,3 +11,4 @@ timeshift
 tuxi-git
 visidata
 yay
+youtube-viewer-git

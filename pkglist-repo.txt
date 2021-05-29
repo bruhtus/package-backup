@@ -172,7 +172,6 @@ xsel
 xterm
 xwallpaper
 youtube-dl
-youtube-viewer
 zathura-pdf-mupdf
 zsh
 zsh-syntax-highlighting
