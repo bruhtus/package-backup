@@ -44,6 +44,7 @@ gstreamer
 gzip
 htop
 hugo
+hyperfine
 i3-gaps
 i3lock
 imv
