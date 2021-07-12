@@ -94,6 +94,7 @@ sed
 speedtest-cli
 sshfs
 sudo
+sx
 syncthing
 task
 telegram-desktop
