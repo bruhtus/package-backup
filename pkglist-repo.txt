@@ -176,4 +176,3 @@ xwallpaper
 youtube-dl
 zathura-pdf-mupdf
 zsh
-zsh-syntax-highlighting
