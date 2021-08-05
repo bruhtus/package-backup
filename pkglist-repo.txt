@@ -75,6 +75,7 @@ pacman-contrib
 papirus-icon-theme
 patch
 pcmanfm
+perl-term-readkey
 perl-text-charwidth
 picom
 pkgconf
