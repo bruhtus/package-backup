@@ -89,6 +89,7 @@ qutebrowser
 ranger
 ripgrep
 rofi
+rofi-emoji
 rsync
 ruby
 sed

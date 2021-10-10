@@ -4,7 +4,6 @@ flat-remix-gtk
 google-chrome
 googler
 polybar
-rofi-emoji
 timeshift
 tuxi-git
 visidata
