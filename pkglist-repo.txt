@@ -43,6 +43,7 @@ gstreamer
 gvim
 gzip
 htop
+httpie
 hugo
 hyperfine
 i3-gaps
