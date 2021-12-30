@@ -106,6 +106,7 @@ terminus-font
 texinfo
 tmux
 transmission-gtk
+tree
 ttf-dejavu
 ttf-droid
 ttf-font-awesome
