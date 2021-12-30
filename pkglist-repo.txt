@@ -69,7 +69,6 @@ networkmanager
 newsboat
 noto-fonts-cjk
 noto-fonts-emoji
-npm
 ntfs-3g
 p7zip
 pacman
