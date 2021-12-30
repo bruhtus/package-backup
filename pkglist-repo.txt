@@ -9,7 +9,6 @@ automake
 base
 binutils
 bison
-blueman
 bluez-utils
 bpytop
 calibre
