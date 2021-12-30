@@ -104,6 +104,7 @@ task
 telegram-desktop
 terminus-font
 texinfo
+tmate
 tmux
 transmission-gtk
 tree
