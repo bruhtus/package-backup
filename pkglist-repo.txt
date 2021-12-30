@@ -106,6 +106,7 @@ terminus-font
 texinfo
 tmate
 tmux
+traceroute
 transmission-gtk
 tree
 ttf-dejavu
