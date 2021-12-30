@@ -3,6 +3,7 @@ farbfeld
 flat-remix-gtk
 google-chrome
 googler
+insomnia-bin
 polybar
 timeshift
 tuxi-git
