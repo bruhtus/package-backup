@@ -93,6 +93,7 @@ rofi
 rofi-emoji
 rsync
 ruby
+screenkey
 sed
 simplescreenrecorder
 speedtest-cli
