@@ -5,6 +5,7 @@ google-chrome
 googler
 insomnia-bin
 polybar
+slack-desktop
 timeshift
 tuxi-git
 visidata
