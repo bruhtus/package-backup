@@ -10,3 +10,4 @@ tuxi-git
 visidata
 yay
 youtube-viewer-git
+zoom
