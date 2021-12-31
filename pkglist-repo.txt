@@ -120,7 +120,6 @@ udisks2
 ueberzug
 unzip
 usbutils
-vi
 volumeicon
 vulkan-intel
 wget
