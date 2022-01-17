@@ -30,6 +30,7 @@ gcc
 gettext
 ghostscript
 git
+gpodder
 grep
 groff
 grub
