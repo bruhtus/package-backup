@@ -10,7 +10,7 @@ base
 binutils
 bison
 bluez-utils
-bpytop
+btop
 calibre
 cpupower
 dmenu
