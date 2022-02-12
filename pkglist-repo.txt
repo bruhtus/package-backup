@@ -15,6 +15,7 @@ calibre
 cpupower
 dmenu
 docker
+docker-compose
 dunst
 efibootmgr
 fakeroot
