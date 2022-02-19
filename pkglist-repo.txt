@@ -13,6 +13,7 @@ bluez-utils
 btop
 calibre
 cpupower
+dbeaver
 dmenu
 docker
 docker-compose
