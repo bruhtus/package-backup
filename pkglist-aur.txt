@@ -4,6 +4,7 @@ flat-remix-gtk
 google-chrome
 googler
 insomnia-bin
+nextdns-unprivileged
 polybar
 slack-desktop
 timeshift
