@@ -123,6 +123,7 @@ udisks2
 ueberzug
 unzip
 usbutils
+visidata
 volumeicon
 vulkan-intel
 wget

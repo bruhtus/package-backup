@@ -10,7 +10,6 @@ slack-desktop
 timeshift
 ttf-courier-prime
 tuxi-git
-visidata
 yay
 youtube-viewer-git
 zoom
