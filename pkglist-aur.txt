@@ -12,4 +12,3 @@ ttf-courier-prime
 tuxi-git
 yay
 youtube-viewer-git
-zoom
