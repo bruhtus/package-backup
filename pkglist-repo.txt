@@ -83,6 +83,7 @@ perl-text-charwidth
 picom
 pkgconf
 polkit-gnome
+polybar
 pulseaudio
 pulseaudio-alsa
 pulseaudio-bluetooth
