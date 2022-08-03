@@ -2,7 +2,6 @@ ddgr
 farbfeld
 flat-remix-gtk
 google-chrome
-googler
 insomnia-bin
 nextdns-unprivileged
 slack-desktop
