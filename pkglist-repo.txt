@@ -87,6 +87,7 @@ polybar
 pulseaudio
 pulseaudio-alsa
 pulseaudio-bluetooth
+python-adblock
 python-pdftotext
 qt5ct
 qutebrowser
