@@ -84,6 +84,7 @@ picom
 pkgconf
 polkit-gnome
 polybar
+postgresql-libs
 pulseaudio
 pulseaudio-alsa
 pulseaudio-bluetooth
