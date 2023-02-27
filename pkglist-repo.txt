@@ -12,6 +12,7 @@ bison
 bluez-utils
 btop
 cpupower
+dash
 dbeaver
 dmenu
 docker
