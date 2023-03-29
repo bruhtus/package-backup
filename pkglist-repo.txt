@@ -49,7 +49,7 @@ htop
 httpie
 hugo
 hyperfine
-i3-gaps
+i3-wm
 i3lock
 imv
 intel-gpu-tools
