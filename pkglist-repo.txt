@@ -79,7 +79,6 @@ pacman-contrib
 papirus-icon-theme
 patch
 pcmanfm
-pdfjs
 perl-term-readkey
 perl-text-charwidth
 picom
