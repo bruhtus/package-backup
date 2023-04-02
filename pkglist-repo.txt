@@ -82,6 +82,7 @@ pcmanfm
 perl-term-readkey
 perl-text-charwidth
 picom
+pinfo
 pkgconf
 polkit-gnome
 polybar
