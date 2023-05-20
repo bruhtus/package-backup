@@ -4,6 +4,8 @@ flat-remix-gtk
 google-chrome
 insomnia-bin
 nextdns-unprivileged
+pinfo
+simplescreenrecorder
 slack-desktop
 timeshift
 ttf-courier-prime

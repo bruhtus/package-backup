@@ -81,7 +81,6 @@ pcmanfm
 perl-term-readkey
 perl-text-charwidth
 picom
-pinfo
 pkgconf
 polkit-gnome
 polybar
@@ -101,7 +100,6 @@ rsync
 ruby
 screenkey
 sed
-simplescreenrecorder
 speedtest-cli
 sshfs
 sudo
