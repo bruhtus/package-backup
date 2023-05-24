@@ -120,7 +120,7 @@ ttf-font-awesome
 ttf-inconsolata
 ttf-indic-otf
 ttf-liberation
-ttf-nerd-fonts-symbols-2048-em
+ttf-nerd-fonts-symbols
 udisks2
 ueberzug
 unzip
