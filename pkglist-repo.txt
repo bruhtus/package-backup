@@ -108,6 +108,7 @@ syncthing
 task
 telegram-desktop
 terminus-font
+terraform
 texinfo
 tmate
 tmux
