@@ -15,6 +15,7 @@ btop
 cpupower
 dash
 dbeaver
+ddgr
 dmenu
 docker
 docker-compose
