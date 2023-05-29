@@ -16,6 +16,7 @@ cpupower
 dash
 dbeaver
 ddgr
+dfu-programmer
 dmenu
 docker
 docker-compose
