@@ -17,6 +17,7 @@ dash
 dbeaver
 ddgr
 dfu-programmer
+dfu-util
 dmenu
 docker
 docker-compose
