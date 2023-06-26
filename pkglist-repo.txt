@@ -60,6 +60,7 @@ libreoffice-fresh
 libtool
 linux
 linux-firmware
+lsof
 lxappearance-gtk3
 lynx
 m4
