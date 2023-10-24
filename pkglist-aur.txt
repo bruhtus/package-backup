@@ -6,7 +6,6 @@ nextdns-unprivileged
 pinfo
 simplescreenrecorder
 slack-desktop
-timeshift
 ttf-courier-prime
 tuxi-git
 yay

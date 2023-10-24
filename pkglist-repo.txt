@@ -114,6 +114,7 @@ telegram-desktop
 terminus-font
 terraform
 texinfo
+timeshift
 tmate
 tmux
 traceroute
