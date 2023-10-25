@@ -9,4 +9,5 @@ slack-desktop
 ttf-courier-prime
 tuxi-git
 yay
+youtube-dl
 youtube-viewer-git

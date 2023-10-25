@@ -192,6 +192,5 @@ xorg-xwud
 xsel
 xterm
 xwallpaper
-youtube-dl
 zathura-pdf-mupdf
 zsh
