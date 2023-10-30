@@ -94,6 +94,7 @@ pulseaudio-alsa
 pulseaudio-bluetooth
 python-adblock
 python-pdftotext
+python-pipx
 qt5ct
 qutebrowser
 ranger
