@@ -39,6 +39,8 @@ networkmanager
 newsboat
 noto-fonts-cjk
 noto-fonts-emoji
+obs-studio
+p7zip
 pacman-contrib
 pcmanfm
 pipewire-audio
