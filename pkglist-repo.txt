@@ -62,6 +62,7 @@ ttf-dejavu
 ttf-font-awesome
 ttf-nerd-fonts-symbols
 udisks2
+usbutils
 wget
 wpa_supplicant
 xdg-user-dirs
