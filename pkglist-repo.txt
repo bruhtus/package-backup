@@ -47,7 +47,10 @@ pipewire-audio
 pipewire-pulse
 polkit-gnome
 polybar
+python-adblock
 python-pipx
+python-pyqt5
+qutebrowser
 reflector
 ripgrep
 rofi
