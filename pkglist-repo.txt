@@ -24,6 +24,7 @@ gvim
 htop
 i3-wm
 i3lock
+i3status
 imv
 libnotify
 linux
@@ -46,7 +47,6 @@ pcmanfm
 pipewire-audio
 pipewire-pulse
 polkit-gnome
-polybar
 python-adblock
 python-pipx
 python-pyqt5
