@@ -53,6 +53,7 @@ hugo
 hyperfine
 i3-wm
 i3lock
+i3status
 imv
 intel-gpu-tools
 intel-ucode
@@ -88,7 +89,6 @@ picom
 pipewire-pulse
 pkgconf
 polkit-gnome
-polybar
 postgresql-libs
 python-adblock
 python-pdftotext
