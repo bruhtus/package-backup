@@ -58,6 +58,7 @@ rofi
 rsync
 supergfxctl
 sx
+syncthing
 task
 telegram-desktop
 tmux
