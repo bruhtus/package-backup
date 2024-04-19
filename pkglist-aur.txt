@@ -1,3 +1,4 @@
 google-chrome
 nextdns-unprivileged
 yay
+youtube-viewer
