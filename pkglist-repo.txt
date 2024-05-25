@@ -74,6 +74,7 @@ neovim
 network-manager-applet
 networkmanager
 newsboat
+nnn
 noto-fonts-cjk
 noto-fonts-emoji
 ntfs-3g
@@ -95,7 +96,6 @@ python-pdftotext
 python-pipx
 qt5ct
 qutebrowser
-ranger
 ripgrep
 rofi
 rofi-emoji
