@@ -38,6 +38,7 @@ mpv
 neovim
 networkmanager
 newsboat
+nnn
 noto-fonts-cjk
 noto-fonts-emoji
 ntfs-3g
