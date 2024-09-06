@@ -35,7 +35,6 @@ man-db
 man-pages
 mlocate
 mpv
-neovim
 networkmanager
 newsboat
 nnn
