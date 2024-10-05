@@ -33,7 +33,6 @@ linux-headers
 lynx
 man-db
 man-pages
-mlocate
 mpv
 networkmanager
 newsboat
@@ -47,6 +46,7 @@ pacman-contrib
 pcmanfm
 pipewire-audio
 pipewire-pulse
+plocate
 polkit-gnome
 python-adblock
 python-pipx
