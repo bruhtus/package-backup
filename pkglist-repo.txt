@@ -35,7 +35,6 @@ man-db
 man-pages
 mpv
 networkmanager
-newsboat
 nnn
 noto-fonts-cjk
 noto-fonts-emoji

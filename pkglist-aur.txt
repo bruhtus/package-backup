@@ -1,4 +1,5 @@
 google-chrome
+newsraft
 nextdns-unprivileged
 yay
 youtube-viewer
