@@ -82,6 +82,7 @@ pacman
 pacman-contrib
 papirus-icon-theme
 patch
+pavucontrol
 pcmanfm
 perl-term-readkey
 perl-text-charwidth
