@@ -43,6 +43,7 @@ ntfs-3g
 obs-studio
 p7zip
 pacman-contrib
+pavucontrol-qt
 pcmanfm
 pipewire-audio
 pipewire-pulse
