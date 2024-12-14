@@ -62,6 +62,7 @@ syncthing
 task
 telegram-desktop
 tmux
+transmission-qt
 tree
 ttf-dejavu
 ttf-font-awesome
