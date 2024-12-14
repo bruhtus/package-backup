@@ -22,6 +22,7 @@ fzf
 git
 gvim
 htop
+hugo
 i3-wm
 i3lock
 i3status
