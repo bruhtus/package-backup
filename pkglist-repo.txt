@@ -1,3 +1,4 @@
+7zip
 acpi
 acpid
 alacritty
@@ -41,7 +42,6 @@ noto-fonts-cjk
 noto-fonts-emoji
 ntfs-3g
 obs-studio
-p7zip
 pacman-contrib
 pavucontrol-qt
 pcmanfm
