@@ -73,7 +73,6 @@ neofetch
 neovim
 network-manager-applet
 networkmanager
-newsboat
 nnn
 noto-fonts-cjk
 noto-fonts-emoji

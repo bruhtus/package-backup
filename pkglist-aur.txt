@@ -2,6 +2,7 @@ farbfeld
 flat-remix-gtk
 google-chrome
 insomnia-bin
+newsraft
 nextdns-unprivileged
 pinfo
 simplescreenrecorder
