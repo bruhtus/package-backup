@@ -36,6 +36,7 @@ lynx
 man-db
 man-pages
 mpv
+ncdu
 networkmanager
 nnn
 noto-fonts-cjk
