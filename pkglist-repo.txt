@@ -53,6 +53,7 @@ polkit-gnome
 python-adblock
 python-pipx
 python-pyqt5
+qemu-base
 qutebrowser
 reflector
 ripgrep
