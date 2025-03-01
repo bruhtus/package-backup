@@ -64,6 +64,7 @@ sx
 syncthing
 task
 telegram-desktop
+tigervnc
 tmux
 transmission-qt
 tree
