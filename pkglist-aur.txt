@@ -11,4 +11,4 @@ sx
 ttf-courier-prime
 tuxi-git
 yay
-youtube-viewer-git
+youtube-viewer
