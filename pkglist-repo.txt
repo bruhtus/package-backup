@@ -39,6 +39,7 @@ mpv
 ncdu
 networkmanager
 nnn
+noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
 ntfs-3g
