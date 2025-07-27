@@ -69,11 +69,11 @@ tmux
 transmission-qt
 tree
 ttf-dejavu
-ttf-font-awesome
 ttf-nerd-fonts-symbols
 udisks2
 usbutils
 wget
+woff2-font-awesome
 wpa_supplicant
 xdg-user-dirs
 xorg-docs
