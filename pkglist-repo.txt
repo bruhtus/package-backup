@@ -75,6 +75,7 @@ ttf-nerd-fonts-symbols
 udisks2
 usbutils
 wget
+wireless-regdb
 woff2-font-awesome
 wpa_supplicant
 xdg-user-dirs
