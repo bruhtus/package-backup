@@ -2,6 +2,7 @@ farbfeld
 google-chrome
 newsraft
 nextdns-unprivileged
+simplescreenrecorder
 sx
 yay
 youtube-viewer
