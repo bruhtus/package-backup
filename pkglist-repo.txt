@@ -53,6 +53,7 @@ pipewire-pulse
 plocate
 polkit-gnome
 python-adblock
+python-gobject
 python-pipx
 python-pyqt5
 qemu-base
