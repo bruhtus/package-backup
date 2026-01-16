@@ -11,6 +11,7 @@ archlinux-contrib
 asusctl
 base
 base-devel
+bc
 btop
 dash
 docker
