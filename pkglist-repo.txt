@@ -21,6 +21,7 @@ fbset
 fd
 flameshot
 fzf
+gdb
 git
 gvim
 htop
