@@ -30,6 +30,7 @@ i3-wm
 i3lock
 i3status
 imv
+jq
 libnotify
 linux
 linux-firmware
