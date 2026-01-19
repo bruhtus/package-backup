@@ -38,6 +38,7 @@ linux-headers
 lynx
 man-db
 man-pages
+mokutil
 mpv
 ncdu
 networkmanager
