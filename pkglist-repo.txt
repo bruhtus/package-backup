@@ -65,7 +65,6 @@ reflector
 ripgrep
 rofi
 rsync
-supergfxctl
 syncthing
 task
 telegram-desktop

@@ -3,6 +3,7 @@ google-chrome
 newsraft
 nextdns-unprivileged
 simplescreenrecorder
+supergfxctl
 sx
 yay
 youtube-viewer
